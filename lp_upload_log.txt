@@ -19331,3 +19331,9 @@
 [2026-10-19 10:30:04] Status: ERROR | Dir: lp/NEECOII | File: .WP089997_LS1_2026-08-25.csv.swp | Size: 0 B | Overwrite: 0 | Path: N/A | Message: File type not allowed. Allowed: txt, csv, xlsx, xls
 [2026-10-19 10:35:04] Status: ERROR | Dir: lp/NEECOII | File: .WP089997_LS1_2026-08-25.csv.swp | Size: 0 B | Overwrite: 0 | Path: N/A | Message: File type not allowed. Allowed: txt, csv, xlsx, xls
 [2026-10-19 10:40:04] Status: ERROR | Dir: lp/NEECOII | File: .WP089997_LS1_2026-08-25.csv.swp | Size: 0 B | Overwrite: 0 | Path: N/A | Message: File type not allowed. Allowed: txt, csv, xlsx, xls
+[2026-10-19 10:45:04] Status: ERROR | Dir: lp/NEECOII | File: .WP089997_LS1_2026-08-25.csv.swp | Size: 0 B | Overwrite: 0 | Path: N/A | Message: File type not allowed. Allowed: txt, csv, xlsx, xls
+[2026-10-19 10:50:04] Status: ERROR | Dir: lp/NEECOII | File: .WP089997_LS1_2026-08-25.csv.swp | Size: 0 B | Overwrite: 0 | Path: N/A | Message: File type not allowed. Allowed: txt, csv, xlsx, xls
+[2026-10-19 10:55:04] Status: ERROR | Dir: lp/NEECOII | File: .WP089997_LS1_2026-08-25.csv.swp | Size: 0 B | Overwrite: 0 | Path: N/A | Message: File type not allowed. Allowed: txt, csv, xlsx, xls
+[2026-10-19 11:00:04] Status: ERROR | Dir: lp/NEECOII | File: .WP089997_LS1_2026-08-25.csv.swp | Size: 0 B | Overwrite: 0 | Path: N/A | Message: File type not allowed. Allowed: txt, csv, xlsx, xls
+[2026-10-19 11:05:05] Status: ERROR | Dir: lp/NEECOII | File: .WP089997_LS1_2026-08-25.csv.swp | Size: 0 B | Overwrite: 0 | Path: N/A | Message: File type not allowed. Allowed: txt, csv, xlsx, xls
+[2026-10-19 11:10:04] Status: ERROR | Dir: lp/NEECOII | File: .WP089997_LS1_2026-08-25.csv.swp | Size: 0 B | Overwrite: 0 | Path: N/A | Message: File type not allowed. Allowed: txt, csv, xlsx, xls
