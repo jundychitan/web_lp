@@ -1,0 +1,129 @@
+[2026-06-15 07:17:41] [INFO] === Load Profile Import Started ===
+[2026-06-15 07:17:41] [INFO] Processing file: DEC_75159913_lp1_2026-06-10.csv (Location: DEC, Meter: 75159913)
+[2026-06-15 07:17:41] [INFO] Detected 10 columns in CSV file
+[2026-06-15 07:17:41] [INFO] Import successful: 288 records inserted (Columns detected: 10)
+[2026-06-15 07:17:41] [INFO] Processing file: DEC_75159913_lp1_2026-06-14.csv (Location: DEC, Meter: 75159913)
+[2026-06-15 07:17:41] [INFO] Detected 10 columns in CSV file
+[2026-06-15 07:17:41] [INFO] Import successful: 288 records inserted (Columns detected: 10)
+[2026-06-15 07:17:41] [INFO] Processing file: DEC_75159913_lp1_2026-06-15.csv (Location: DEC, Meter: 75159913)
+[2026-06-15 07:17:41] [INFO] Detected 10 columns in CSV file
+[2026-06-15 07:17:41] [INFO] Import successful: 288 records inserted (Columns detected: 10)
+[2026-06-15 07:17:41] [INFO] Processing file: DEC_75159913_lp2_2026-06-07.csv (Location: DEC, Meter: 75159913)
+[2026-06-15 07:17:41] [INFO] Detected 18 columns in CSV file
+[2026-06-15 07:17:41] [INFO] Import successful: 24 records inserted (Columns detected: 18)
+[2026-06-15 07:17:41] [INFO] Processing file: DEC_75159913_lp2_2026-06-09.csv (Location: DEC, Meter: 75159913)
+[2026-06-15 07:17:41] [INFO] Detected 18 columns in CSV file
+[2026-06-15 07:17:41] [INFO] Import successful: 24 records inserted (Columns detected: 18)
+[2026-06-15 07:17:41] [INFO] Processing file: DEC_PE000160_LS1_2026-06-09.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:41] [INFO] Detected 12 columns in CSV file
+[2026-06-15 07:17:41] [INFO] Import successful: 96 records inserted (Columns detected: 12)
+[2026-06-15 07:17:41] [INFO] Processing file: DEC_PE000160_LS1_2026-06-10.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:41] [INFO] Detected 12 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 96 records inserted (Columns detected: 12)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS1_2026-06-11.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 12 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 96 records inserted (Columns detected: 12)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS1_2026-06-12.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 12 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 96 records inserted (Columns detected: 12)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS1_2026-06-13.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 12 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 96 records inserted (Columns detected: 12)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS1_2026-06-14.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 12 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 96 records inserted (Columns detected: 12)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS2_2026-05-29.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 8 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 287 records inserted (Columns detected: 8)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS2_2026-05-30.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 8 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 287 records inserted (Columns detected: 8)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS2_2026-05-31.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 8 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 287 records inserted (Columns detected: 8)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS2_2026-06-01.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 8 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 287 records inserted (Columns detected: 8)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS2_2026-06-02.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 8 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 287 records inserted (Columns detected: 8)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS2_2026-06-03.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 8 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 287 records inserted (Columns detected: 8)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS2_2026-06-04.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 8 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 287 records inserted (Columns detected: 8)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS2_2026-06-05.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 8 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 287 records inserted (Columns detected: 8)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS2_2026-06-06.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 8 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 287 records inserted (Columns detected: 8)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS2_2026-06-07.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 8 columns in CSV file
+[2026-06-15 07:17:42] [INFO] Import successful: 287 records inserted (Columns detected: 8)
+[2026-06-15 07:17:42] [INFO] Processing file: DEC_PE000160_LS2_2026-06-08.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:42] [INFO] Detected 8 columns in CSV file
+[2026-06-15 07:17:43] [INFO] Import successful: 287 records inserted (Columns detected: 8)
+[2026-06-15 07:17:43] [INFO] Processing file: DEC_PE000160_LS2_2026-06-09.csv (Location: DEC, Meter: PE000160)
+[2026-06-15 07:17:43] [INFO] Detected 8 columns in CSV file
+[2026-06-15 07:17:43] [INFO] Import successful: 287 records inserted (Columns detected: 8)
+[2026-06-15 07:17:43] [INFO] Processing file: DEC_SS18314065_LS1_2026-06-12.csv (Location: DEC, Meter: SS18314065)
+[2026-06-15 07:17:43] [INFO] Detected 7 columns in CSV file
+[2026-06-15 07:17:43] [INFO] Import successful: 96 records inserted (Columns detected: 7)
+[2026-06-15 07:17:43] [INFO] Processing file: DEC_SS18314065_LS1_2026-06-13.csv (Location: DEC, Meter: SS18314065)
+[2026-06-15 07:17:43] [INFO] Detected 7 columns in CSV file
+[2026-06-15 07:17:43] [INFO] Import successful: 96 records inserted (Columns detected: 7)
+[2026-06-15 07:17:43] [INFO] Processing file: DEC_SS18314065_LS1_2026-06-14.csv (Location: DEC, Meter: SS18314065)
+[2026-06-15 07:17:43] [INFO] Detected 7 columns in CSV file
+[2026-06-15 07:17:43] [INFO] Import successful: 96 records inserted (Columns detected: 7)
+[2026-06-15 07:17:43] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:17:43] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:17:43] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:17:43] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:17:43] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:17:43] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:17:43] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:17:43] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:17:43] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:17:43] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:17:43] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:17:43] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:17:43] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:17:43] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:17:43] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:17:43] [INFO] === Import Complete: 26 processed, 5 failed ===
+[2026-06-15 07:18:02] [INFO] === Load Profile Import Started ===
+[2026-06-15 07:18:02] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:18:02] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:18:02] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:18:02] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:18:02] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:18:02] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:18:02] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:18:02] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:18:02] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:18:02] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:18:02] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:18:02] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:18:02] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:18:02] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:18:02] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:18:02] [INFO] === Import Complete: 0 processed, 5 failed ===
+[2026-06-15 07:18:10] [INFO] === Load Profile Import Started ===
+[2026-06-15 07:18:10] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:18:10] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:18:10] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:18:10] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:18:10] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:18:10] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:18:10] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:18:10] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:18:10] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:18:10] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:18:10] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:18:10] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:18:10] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-15 07:18:10] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-15 07:18:10] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-15 07:18:10] [INFO] === Import Complete: 0 processed, 5 failed ===

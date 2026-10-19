@@ -1,0 +1,9 @@
+Meter ID,t
+Customer,
+Location,TEST
+Date Start,2021-06-18 00:00:00
+Date End,2021-06-18 23:59:59
+
+#,Datetime,Event ID,CH 1,CH 2,CH 3,CH 4,CH 5,CH 6,CH 7,CH 8
+1,2021-06-18 12:47:28,1,1,11,1,1,1,1,0,0
+2,2021-06-18 15:47:28,1,1,11,1,1,1,1,0,0

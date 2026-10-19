@@ -1,0 +1,1636 @@
+[2026-09-05 00:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 00:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 00:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 00:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 00:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 00:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 00:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 00:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 00:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 00:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 00:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 00:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 00:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 00:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 00:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 00:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 00:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 00:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 00:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 00:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 00:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 00:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 00:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 00:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 00:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 00:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 00:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 00:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 00:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 00:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 00:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 00:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 00:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 00:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 00:30:01] [INFO] Processing file: AEC_51235704_lp1_2026-09-05.csv (Location: AEC, Meter: 51235704)
+[2026-09-05 00:30:01] [INFO] Detected 5 columns in CSV file
+[2026-09-05 00:30:01] [INFO] Import successful: 24 records inserted (Columns detected: 5)
+[2026-09-05 00:30:01] [INFO] Processing file: NEECOII_WP089997_LS1_2026-09-04.csv (Location: NEECOII, Meter: WP089997)
+[2026-09-05 00:30:01] [INFO] Detected 10 columns in CSV file
+[2026-09-05 00:30:01] [INFO] Import successful: 288 records inserted (Columns detected: 10)
+[2026-09-05 00:30:01] [INFO] Processing file: NGCP_3475393_LP1_2026-09-05.csv (Location: NGCP, Meter: 3475393)
+[2026-09-05 00:30:01] [INFO] Detected 10 columns in CSV file
+[2026-09-05 00:30:01] [INFO] Import successful: 288 records inserted (Columns detected: 10)
+[2026-09-05 00:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 00:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 00:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 00:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 00:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 00:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 00:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 00:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 00:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 00:30:01] [INFO] Processing file: PELCO_44162176_lp2_2026-09-05.csv (Location: PELCO, Meter: 44162176)
+[2026-09-05 00:30:01] [INFO] Detected 14 columns in CSV file
+[2026-09-05 00:30:02] [INFO] Import successful: 288 records inserted (Columns detected: 14)
+[2026-09-05 00:30:02] [INFO] === Import Complete: 4 processed, 3 failed ===
+[2026-09-05 00:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 00:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 00:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 00:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 00:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 00:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 00:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 00:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 00:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 00:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 00:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 00:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 00:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 00:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 00:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 00:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 00:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 00:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 00:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 00:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 00:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 00:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 01:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 01:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 01:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 01:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 01:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 01:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 01:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 01:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 01:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 01:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 01:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 01:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 01:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 01:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 01:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 01:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 01:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 01:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 01:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 01:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 01:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 01:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 01:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 01:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 01:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 01:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 01:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 01:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 01:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 01:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 01:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 01:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 01:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 01:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 01:30:01] [INFO] Processing file: AEC_51235704_lp1_2026-09-05.csv (Location: AEC, Meter: 51235704)
+[2026-09-05 01:30:01] [INFO] File already imported, skipping: AEC_51235704_lp1_2026-09-05.csv
+[2026-09-05 01:30:01] [INFO] Processing file: NEECOII_WP089997_LS1_2026-09-04.csv (Location: NEECOII, Meter: WP089997)
+[2026-09-05 01:30:01] [INFO] File already imported, skipping: NEECOII_WP089997_LS1_2026-09-04.csv
+[2026-09-05 01:30:01] [INFO] Processing file: NGCP_3475393_LP1_2026-09-05.csv (Location: NGCP, Meter: 3475393)
+[2026-09-05 01:30:01] [INFO] File already imported, skipping: NGCP_3475393_LP1_2026-09-05.csv
+[2026-09-05 01:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 01:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 01:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 01:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 01:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 01:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 01:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 01:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 01:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 01:30:01] [INFO] Processing file: PELCO_44162176_lp2_2026-09-05.csv (Location: PELCO, Meter: 44162176)
+[2026-09-05 01:30:01] [INFO] File already imported, skipping: PELCO_44162176_lp2_2026-09-05.csv
+[2026-09-05 01:30:01] [INFO] === Import Complete: 4 processed, 3 failed ===
+[2026-09-05 01:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 01:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 01:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 01:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 01:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 01:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 01:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 01:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 01:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 01:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 01:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 01:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 01:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 01:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 01:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 01:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 01:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 01:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 01:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 01:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 01:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 01:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 02:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 02:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 02:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 02:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 02:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 02:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 02:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 02:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 02:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 02:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 02:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 02:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 02:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 02:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 02:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 02:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 02:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 02:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 02:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 02:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 02:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 02:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 02:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 02:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 02:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 02:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 02:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 02:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 02:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 02:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 02:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 02:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 02:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 02:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 02:30:01] [INFO] Processing file: AEC_51235704_lp1_2026-09-05.csv (Location: AEC, Meter: 51235704)
+[2026-09-05 02:30:01] [INFO] File already imported, skipping: AEC_51235704_lp1_2026-09-05.csv
+[2026-09-05 02:30:01] [INFO] Processing file: NEECOII_WP089997_LS1_2026-09-04.csv (Location: NEECOII, Meter: WP089997)
+[2026-09-05 02:30:01] [INFO] File already imported, skipping: NEECOII_WP089997_LS1_2026-09-04.csv
+[2026-09-05 02:30:01] [INFO] Processing file: NGCP_3475393_LP1_2026-09-05.csv (Location: NGCP, Meter: 3475393)
+[2026-09-05 02:30:01] [INFO] File already imported, skipping: NGCP_3475393_LP1_2026-09-05.csv
+[2026-09-05 02:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 02:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 02:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 02:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 02:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 02:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 02:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 02:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 02:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 02:30:01] [INFO] Processing file: PELCO_44162176_lp2_2026-09-05.csv (Location: PELCO, Meter: 44162176)
+[2026-09-05 02:30:01] [INFO] File already imported, skipping: PELCO_44162176_lp2_2026-09-05.csv
+[2026-09-05 02:30:01] [INFO] === Import Complete: 4 processed, 3 failed ===
+[2026-09-05 02:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 02:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 02:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 02:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 02:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 02:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 02:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 02:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 02:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 02:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 02:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 02:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 02:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 02:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 02:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 02:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 02:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 02:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 02:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 02:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 02:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 02:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 03:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 03:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 03:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 03:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 03:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 03:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 03:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 03:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 03:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 03:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 03:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 03:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 03:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 03:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 03:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 03:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 03:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 03:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 03:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 03:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 03:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 03:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 03:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 03:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 03:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 03:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 03:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 03:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 03:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 03:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 03:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 03:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 03:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 03:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 03:30:01] [INFO] Processing file: AEC_51235704_lp1_2026-09-05.csv (Location: AEC, Meter: 51235704)
+[2026-09-05 03:30:01] [INFO] File already imported, skipping: AEC_51235704_lp1_2026-09-05.csv
+[2026-09-05 03:30:01] [INFO] Processing file: NEECOII_WP089997_LS1_2026-09-04.csv (Location: NEECOII, Meter: WP089997)
+[2026-09-05 03:30:01] [INFO] File already imported, skipping: NEECOII_WP089997_LS1_2026-09-04.csv
+[2026-09-05 03:30:01] [INFO] Processing file: NGCP_3475393_LP1_2026-09-05.csv (Location: NGCP, Meter: 3475393)
+[2026-09-05 03:30:01] [INFO] File already imported, skipping: NGCP_3475393_LP1_2026-09-05.csv
+[2026-09-05 03:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 03:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 03:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 03:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 03:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 03:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 03:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 03:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 03:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 03:30:01] [INFO] Processing file: PELCO_44162176_lp2_2026-09-05.csv (Location: PELCO, Meter: 44162176)
+[2026-09-05 03:30:01] [INFO] File already imported, skipping: PELCO_44162176_lp2_2026-09-05.csv
+[2026-09-05 03:30:01] [INFO] === Import Complete: 4 processed, 3 failed ===
+[2026-09-05 03:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 03:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 03:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 03:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 03:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 03:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 03:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 03:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 03:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 03:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 03:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 03:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 03:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 03:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 03:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 03:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 03:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 03:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 03:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 03:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 03:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 03:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 04:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 04:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 04:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 04:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 04:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 04:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 04:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 04:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 04:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 04:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 04:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 04:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 04:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 04:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 04:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 04:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 04:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 04:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 04:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 04:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 04:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 04:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 04:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 04:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 04:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 04:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 04:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 04:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 04:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 04:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 04:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 04:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 04:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 04:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 04:30:01] [INFO] Processing file: AEC_51235704_lp1_2026-09-05.csv (Location: AEC, Meter: 51235704)
+[2026-09-05 04:30:01] [INFO] File already imported, skipping: AEC_51235704_lp1_2026-09-05.csv
+[2026-09-05 04:30:01] [INFO] Processing file: NEECOII_WP089997_LS1_2026-09-04.csv (Location: NEECOII, Meter: WP089997)
+[2026-09-05 04:30:01] [INFO] File already imported, skipping: NEECOII_WP089997_LS1_2026-09-04.csv
+[2026-09-05 04:30:01] [INFO] Processing file: NGCP_3475393_LP1_2026-09-05.csv (Location: NGCP, Meter: 3475393)
+[2026-09-05 04:30:01] [INFO] File already imported, skipping: NGCP_3475393_LP1_2026-09-05.csv
+[2026-09-05 04:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 04:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 04:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 04:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 04:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 04:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 04:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 04:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 04:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 04:30:01] [INFO] Processing file: PELCO_44162176_lp2_2026-09-05.csv (Location: PELCO, Meter: 44162176)
+[2026-09-05 04:30:01] [INFO] File already imported, skipping: PELCO_44162176_lp2_2026-09-05.csv
+[2026-09-05 04:30:01] [INFO] === Import Complete: 4 processed, 3 failed ===
+[2026-09-05 04:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 04:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 04:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 04:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 04:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 04:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 04:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 04:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 04:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 04:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 04:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 04:50:02] [INFO] === Load Profile Import Started ===
+[2026-09-05 04:50:02] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 04:50:02] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 04:50:02] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 04:50:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 04:50:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 04:50:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 04:50:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 04:50:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 04:50:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 04:50:02] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 05:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 05:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 05:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 05:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 05:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 05:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 05:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 05:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 05:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 05:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 05:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 05:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 05:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 05:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 05:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 05:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 05:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 05:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 05:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 05:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 05:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 05:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 05:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 05:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 05:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 05:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 05:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 05:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 05:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 05:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 05:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 05:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 05:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 05:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 05:30:01] [INFO] Processing file: AEC_51235704_lp1_2026-09-05.csv (Location: AEC, Meter: 51235704)
+[2026-09-05 05:30:01] [INFO] File already imported, skipping: AEC_51235704_lp1_2026-09-05.csv
+[2026-09-05 05:30:01] [INFO] Processing file: NEECOII_WP089997_LS1_2026-09-04.csv (Location: NEECOII, Meter: WP089997)
+[2026-09-05 05:30:01] [INFO] File already imported, skipping: NEECOII_WP089997_LS1_2026-09-04.csv
+[2026-09-05 05:30:01] [INFO] Processing file: NGCP_3475393_LP1_2026-09-05.csv (Location: NGCP, Meter: 3475393)
+[2026-09-05 05:30:01] [INFO] File already imported, skipping: NGCP_3475393_LP1_2026-09-05.csv
+[2026-09-05 05:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 05:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 05:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 05:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 05:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 05:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 05:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 05:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 05:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 05:30:01] [INFO] Processing file: PELCO_44162176_lp2_2026-09-05.csv (Location: PELCO, Meter: 44162176)
+[2026-09-05 05:30:01] [INFO] File already imported, skipping: PELCO_44162176_lp2_2026-09-05.csv
+[2026-09-05 05:30:01] [INFO] === Import Complete: 4 processed, 3 failed ===
+[2026-09-05 05:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 05:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 05:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 05:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 05:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 05:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 05:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 05:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 05:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 05:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 05:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 05:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 05:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 05:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 05:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 05:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 05:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 05:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 05:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 05:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 05:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 05:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 06:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 06:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 06:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 06:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 06:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 06:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 06:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 06:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 06:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 06:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 06:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 06:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 06:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 06:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 06:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 06:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 06:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 06:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 06:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 06:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 06:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 06:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 06:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 06:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 06:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 06:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 06:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 06:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 06:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 06:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 06:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 06:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 06:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 06:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 06:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 06:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 06:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 06:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 06:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 06:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 06:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 06:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 06:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 06:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 06:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 06:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 06:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 06:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 06:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 06:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 06:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 06:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 06:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 06:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 06:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 06:50:02] [INFO] === Load Profile Import Started ===
+[2026-09-05 06:50:02] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 06:50:02] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 06:50:02] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 06:50:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 06:50:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 06:50:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 06:50:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 06:50:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 06:50:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 06:50:02] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 07:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 07:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 07:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 07:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 07:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 07:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 07:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 07:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 07:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 07:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 07:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 07:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 07:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 07:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 07:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 07:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 07:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 07:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 07:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 07:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 07:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 07:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 07:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 07:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 07:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 07:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 07:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 07:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 07:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 07:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 07:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 07:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 07:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 07:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 07:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 07:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 07:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 07:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 07:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 07:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 07:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 07:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 07:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 07:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 07:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 07:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 07:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 07:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 07:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 07:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 07:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 07:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 07:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 07:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 07:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 07:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 07:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 07:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 07:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 07:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 07:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 07:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 07:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 07:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 07:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 07:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 08:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 08:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 08:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 08:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 08:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 08:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 08:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 08:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 08:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 08:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 08:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 08:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 08:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 08:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 08:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 08:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 08:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 08:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 08:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 08:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 08:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 08:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 08:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 08:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 08:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 08:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 08:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 08:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 08:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 08:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 08:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 08:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 08:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 08:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 08:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 08:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 08:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 08:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 08:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 08:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 08:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 08:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 08:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 08:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 08:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 08:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 08:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 08:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 08:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 08:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 08:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 08:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 08:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 08:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 08:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 08:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 08:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 08:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 08:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 08:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 08:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 08:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 08:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 08:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 08:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 08:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 09:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 09:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 09:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 09:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 09:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 09:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 09:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 09:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 09:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 09:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 09:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 09:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 09:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 09:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 09:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 09:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 09:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 09:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 09:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 09:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 09:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 09:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 09:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 09:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 09:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 09:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 09:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 09:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 09:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 09:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 09:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 09:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 09:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 09:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 09:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 09:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 09:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 09:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 09:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 09:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 09:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 09:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 09:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 09:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 09:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 09:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 09:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 09:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 09:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 09:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 09:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 09:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 09:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 09:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 09:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 09:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 09:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 09:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 09:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 09:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 09:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 09:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 09:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 09:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 09:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 09:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 10:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 10:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 10:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 10:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 10:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 10:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 10:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 10:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 10:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 10:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 10:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 10:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 10:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 10:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 10:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 10:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 10:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 10:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 10:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 10:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 10:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 10:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 10:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 10:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 10:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 10:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 10:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 10:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 10:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 10:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 10:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 10:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 10:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 10:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 10:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 10:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 10:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 10:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 10:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 10:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 10:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 10:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 10:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 10:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 10:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 10:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 10:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 10:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 10:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 10:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 10:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 10:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 10:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 10:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 10:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 10:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 10:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 10:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 10:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 10:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 10:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 10:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 10:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 10:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 10:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 10:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 11:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 11:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 11:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 11:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 11:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 11:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 11:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 11:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 11:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 11:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 11:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 11:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 11:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 11:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 11:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 11:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 11:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 11:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 11:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 11:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 11:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 11:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 11:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 11:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 11:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 11:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 11:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 11:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 11:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 11:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 11:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 11:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 11:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 11:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 11:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 11:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 11:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 11:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 11:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 11:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 11:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 11:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 11:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 11:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 11:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 11:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 11:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 11:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 11:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 11:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 11:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 11:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 11:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 11:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 11:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 11:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 11:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 11:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 11:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 11:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 11:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 11:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 11:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 11:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 11:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 11:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 12:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 12:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 12:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 12:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 12:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 12:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 12:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 12:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 12:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 12:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 12:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 12:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 12:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 12:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 12:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 12:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 12:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 12:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 12:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 12:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 12:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 12:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 12:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 12:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 12:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 12:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 12:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 12:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 12:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 12:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 12:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 12:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 12:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 12:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 12:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 12:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 12:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 12:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 12:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 12:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 12:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 12:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 12:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 12:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 12:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 12:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 12:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 12:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 12:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 12:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 12:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 12:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 12:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 12:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 12:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 12:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 12:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 12:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 12:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 12:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 12:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 12:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 12:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 12:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 12:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 12:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 13:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 13:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 13:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 13:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 13:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 13:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 13:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 13:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 13:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 13:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 13:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 13:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 13:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 13:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 13:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 13:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 13:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 13:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 13:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 13:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 13:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 13:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 13:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 13:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 13:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 13:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 13:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 13:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 13:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 13:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 13:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 13:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 13:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 13:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 13:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 13:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 13:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 13:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 13:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 13:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 13:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 13:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 13:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 13:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 13:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 13:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 13:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 13:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 13:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 13:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 13:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 13:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 13:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 13:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 13:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 13:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 13:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 13:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 13:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 13:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 13:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 13:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 13:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 13:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 13:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 13:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 14:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 14:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 14:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 14:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 14:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 14:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 14:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 14:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 14:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 14:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 14:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 14:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 14:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 14:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 14:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 14:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 14:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 14:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 14:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 14:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 14:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 14:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 14:20:02] [INFO] === Load Profile Import Started ===
+[2026-09-05 14:20:02] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 14:20:02] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 14:20:02] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 14:20:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 14:20:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 14:20:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 14:20:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 14:20:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 14:20:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 14:20:02] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 14:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 14:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 14:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 14:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 14:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 14:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 14:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 14:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 14:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 14:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 14:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 14:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 14:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 14:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 14:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 14:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 14:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 14:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 14:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 14:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 14:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 14:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 14:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 14:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 14:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 14:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 14:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 14:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 14:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 14:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 14:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 14:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 14:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 15:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 15:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 15:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 15:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 15:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 15:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 15:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 15:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 15:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 15:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 15:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 15:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 15:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 15:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 15:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 15:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 15:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 15:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 15:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 15:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 15:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 15:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 15:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 15:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 15:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 15:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 15:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 15:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 15:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 15:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 15:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 15:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 15:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 15:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 15:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 15:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 15:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 15:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 15:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 15:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 15:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 15:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 15:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 15:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 15:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 15:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 15:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 15:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 15:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 15:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 15:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 15:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 15:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 15:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 15:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 15:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 15:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 15:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 15:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 15:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 15:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 15:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 15:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 15:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 15:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 15:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 16:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 16:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 16:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 16:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 16:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 16:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 16:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 16:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 16:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 16:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 16:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 16:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 16:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 16:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 16:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 16:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 16:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 16:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 16:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 16:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 16:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 16:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 16:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 16:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 16:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 16:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 16:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 16:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 16:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 16:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 16:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 16:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 16:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 16:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 16:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 16:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 16:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 16:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 16:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 16:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 16:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 16:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 16:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 16:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 16:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 16:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 16:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 16:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 16:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 16:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 16:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 16:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 16:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 16:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 16:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 16:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 16:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 16:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 16:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 16:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 16:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 16:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 16:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 16:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 16:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 16:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 17:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 17:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 17:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 17:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 17:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 17:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 17:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 17:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 17:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 17:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 17:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 17:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 17:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 17:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 17:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 17:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 17:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 17:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 17:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 17:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 17:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 17:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 17:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 17:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 17:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 17:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 17:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 17:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 17:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 17:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 17:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 17:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 17:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 17:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 17:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 17:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 17:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 17:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 17:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 17:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 17:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 17:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 17:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 17:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 17:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 17:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 17:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 17:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 17:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 17:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 17:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 17:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 17:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 17:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 17:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 17:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 17:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 17:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 17:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 17:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 17:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 17:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 17:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 17:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 17:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 17:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 18:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 18:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 18:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 18:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 18:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 18:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 18:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 18:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 18:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 18:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 18:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 18:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 18:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 18:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 18:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 18:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 18:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 18:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 18:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 18:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 18:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 18:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 18:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 18:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 18:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 18:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 18:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 18:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 18:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 18:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 18:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 18:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 18:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 18:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 18:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 18:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 18:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 18:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 18:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 18:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 18:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 18:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 18:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 18:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 18:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 18:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 18:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 18:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 18:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 18:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 18:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 18:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 18:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 18:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 18:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 18:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 18:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 18:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 18:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 18:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 18:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 18:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 18:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 18:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 18:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 18:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 19:00:02] [INFO] === Load Profile Import Started ===
+[2026-09-05 19:00:02] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 19:00:02] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 19:00:02] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 19:00:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 19:00:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 19:00:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 19:00:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 19:00:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 19:00:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 19:00:02] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 19:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 19:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 19:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 19:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 19:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 19:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 19:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 19:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 19:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 19:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 19:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 19:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 19:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 19:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 19:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 19:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 19:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 19:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 19:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 19:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 19:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 19:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 19:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 19:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 19:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 19:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 19:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 19:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 19:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 19:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 19:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 19:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 19:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 19:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 19:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 19:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 19:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 19:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 19:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 19:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 19:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 19:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 19:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 19:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 19:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 19:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 19:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 19:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 19:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 19:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 19:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 19:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 19:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 19:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 19:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 20:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 20:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 20:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 20:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 20:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 20:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 20:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 20:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 20:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 20:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 20:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 20:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 20:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 20:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 20:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 20:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 20:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 20:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 20:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 20:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 20:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 20:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 20:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 20:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 20:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 20:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 20:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 20:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 20:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 20:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 20:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 20:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 20:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 20:30:02] [INFO] === Load Profile Import Started ===
+[2026-09-05 20:30:02] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 20:30:02] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 20:30:02] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 20:30:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 20:30:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 20:30:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 20:30:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 20:30:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 20:30:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 20:30:02] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 20:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 20:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 20:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 20:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 20:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 20:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 20:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 20:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 20:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 20:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 20:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 20:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 20:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 20:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 20:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 20:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 20:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 20:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 20:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 20:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 20:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 20:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 21:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 21:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 21:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 21:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 21:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 21:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 21:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 21:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 21:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 21:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 21:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 21:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 21:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 21:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 21:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 21:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 21:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 21:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 21:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 21:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 21:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 21:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 21:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 21:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 21:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 21:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 21:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 21:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 21:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 21:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 21:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 21:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 21:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 21:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 21:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 21:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 21:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 21:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 21:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 21:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 21:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 21:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 21:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 21:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 21:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 21:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 21:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 21:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 21:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 21:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 21:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 21:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 21:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 21:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 21:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 21:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 21:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 21:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 21:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 21:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 21:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 21:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 21:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 21:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 21:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 21:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 22:00:02] [INFO] === Load Profile Import Started ===
+[2026-09-05 22:00:02] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 22:00:02] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 22:00:02] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 22:00:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 22:00:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 22:00:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 22:00:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 22:00:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 22:00:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 22:00:02] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 22:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 22:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 22:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 22:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 22:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 22:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 22:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 22:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 22:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 22:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 22:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 22:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 22:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 22:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 22:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 22:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 22:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 22:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 22:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 22:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 22:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 22:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 22:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 22:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 22:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 22:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 22:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 22:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 22:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 22:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 22:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 22:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 22:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 22:40:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 22:40:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 22:40:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 22:40:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 22:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 22:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 22:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 22:40:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 22:40:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 22:40:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 22:40:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 22:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 22:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 22:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 22:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 22:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 22:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 22:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 22:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 22:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 22:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 22:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 23:00:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 23:00:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 23:00:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 23:00:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 23:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 23:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 23:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 23:00:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 23:00:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 23:00:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 23:00:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 23:10:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 23:10:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 23:10:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 23:10:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 23:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 23:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 23:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 23:10:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 23:10:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 23:10:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 23:10:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 23:20:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 23:20:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 23:20:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 23:20:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 23:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 23:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 23:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 23:20:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 23:20:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 23:20:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 23:20:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 23:30:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 23:30:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 23:30:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 23:30:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 23:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 23:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 23:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 23:30:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 23:30:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 23:30:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 23:30:01] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 23:40:02] [INFO] === Load Profile Import Started ===
+[2026-09-05 23:40:02] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 23:40:02] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 23:40:02] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 23:40:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 23:40:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 23:40:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 23:40:02] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 23:40:02] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 23:40:02] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 23:40:02] [INFO] === Import Complete: 0 processed, 3 failed ===
+[2026-09-05 23:50:01] [INFO] === Load Profile Import Started ===
+[2026-09-05 23:50:01] [INFO] Processing file: NGCP_3475634_LP1_unknown.csv (Location: NGCP, Meter: 3475634)
+[2026-09-05 23:50:01] [ERROR] Meter not found: 3475634 at NGCP
+[2026-09-05 23:50:01] [ERROR] Cannot proceed without valid meter ID for 3475634 at NGCP
+[2026-09-05 23:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-19.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 23:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 23:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 23:50:01] [INFO] Processing file: NGCP_51235704_lp1_2026-08-20.csv (Location: NGCP, Meter: 51235704)
+[2026-09-05 23:50:01] [ERROR] Meter not found: 51235704 at NGCP
+[2026-09-05 23:50:01] [ERROR] Cannot proceed without valid meter ID for 51235704 at NGCP
+[2026-09-05 23:50:01] [INFO] === Import Complete: 0 processed, 3 failed ===

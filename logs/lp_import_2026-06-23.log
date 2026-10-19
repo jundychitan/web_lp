@@ -1,0 +1,276 @@
+[2026-06-23 19:26:10] [INFO] === Load Profile Import Started ===
+[2026-06-23 19:26:10] [INFO] Processing file: DEC_PE000160_LS1_2026-06-15.csv (Location: DEC, Meter: PE000160)
+[2026-06-23 19:26:10] [INFO] Detected 12 columns in CSV file
+[2026-06-23 19:26:10] [INFO] Import successful: 96 records inserted (Columns detected: 12)
+[2026-06-23 19:26:10] [INFO] Processing file: DEC_PE000160_LS1_2026-06-16.csv (Location: DEC, Meter: PE000160)
+[2026-06-23 19:26:10] [INFO] Detected 12 columns in CSV file
+[2026-06-23 19:26:10] [INFO] Import successful: 96 records inserted (Columns detected: 12)
+[2026-06-23 19:26:10] [INFO] Processing file: DEC_SS18314065_LS1_2026-06-15.csv (Location: DEC, Meter: SS18314065)
+[2026-06-23 19:26:10] [INFO] Detected 7 columns in CSV file
+[2026-06-23 19:26:10] [INFO] Import successful: 96 records inserted (Columns detected: 7)
+[2026-06-23 19:26:10] [INFO] Processing file: DEC_SS18314065_LS1_2026-06-16.csv (Location: DEC, Meter: SS18314065)
+[2026-06-23 19:26:10] [INFO] Detected 7 columns in CSV file
+[2026-06-23 19:26:10] [INFO] Import successful: 96 records inserted (Columns detected: 7)
+[2026-06-23 19:26:10] [INFO] Processing file: DEC_SS18314065_LS1_2026-06-17.csv (Location: DEC, Meter: SS18314065)
+[2026-06-23 19:26:10] [INFO] Detected 7 columns in CSV file
+[2026-06-23 19:26:10] [INFO] Import successful: 96 records inserted (Columns detected: 7)
+[2026-06-23 19:26:10] [INFO] Processing file: DEC_SS18314065_LS1_2026-06-18.csv (Location: DEC, Meter: SS18314065)
+[2026-06-23 19:26:10] [INFO] Detected 7 columns in CSV file
+[2026-06-23 19:26:10] [INFO] Import successful: 96 records inserted (Columns detected: 7)
+[2026-06-23 19:26:10] [INFO] Processing file: DEC_SS18314065_LS1_2026-06-19.csv (Location: DEC, Meter: SS18314065)
+[2026-06-23 19:26:10] [INFO] Detected 7 columns in CSV file
+[2026-06-23 19:26:10] [INFO] Import successful: 96 records inserted (Columns detected: 7)
+[2026-06-23 19:26:10] [INFO] Processing file: DEC_SS18314065_LS1_2026-06-20.csv (Location: DEC, Meter: SS18314065)
+[2026-06-23 19:26:10] [INFO] Detected 7 columns in CSV file
+[2026-06-23 19:26:10] [INFO] Import successful: 96 records inserted (Columns detected: 7)
+[2026-06-23 19:26:10] [INFO] Processing file: DEC_SS18314065_LS1_2026-06-21.csv (Location: DEC, Meter: SS18314065)
+[2026-06-23 19:26:10] [INFO] Detected 7 columns in CSV file
+[2026-06-23 19:26:10] [INFO] Import successful: 96 records inserted (Columns detected: 7)
+[2026-06-23 19:26:10] [INFO] Processing file: DEC_SS18314065_LS1_2026-06-22.csv (Location: DEC, Meter: SS18314065)
+[2026-06-23 19:26:10] [INFO] Detected 7 columns in CSV file
+[2026-06-23 19:26:10] [INFO] Import successful: 96 records inserted (Columns detected: 7)
+[2026-06-23 19:26:10] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 19:26:10] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 19:26:10] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 19:26:10] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 19:26:10] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 19:26:10] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 19:26:10] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 19:26:10] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 19:26:10] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 19:26:10] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 19:26:10] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 19:26:10] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 19:26:10] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 19:26:10] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 19:26:10] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 19:26:10] [INFO] Processing file: PELCO_44162176_lp1_2026-06-23.csv (Location: PELCO, Meter: 44162176)
+[2026-06-23 19:26:10] [INFO] Detected 7 columns in CSV file
+[2026-06-23 19:26:10] [INFO] Import successful: 288 records inserted (Columns detected: 7)
+[2026-06-23 19:26:10] [INFO] === Import Complete: 11 processed, 5 failed ===
+[2026-06-23 19:36:38] [INFO] === Load Profile Import Started ===
+[2026-06-23 19:36:38] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 19:36:38] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 19:36:38] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 19:36:38] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 19:36:38] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 19:36:38] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 19:36:38] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 19:36:38] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 19:36:38] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 19:36:38] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 19:36:38] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 19:36:38] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 19:36:38] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 19:36:38] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 19:36:38] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 19:36:38] [INFO] Processing file: PELCO_44162176_lp2_2026-06-23.csv (Location: PELCO, Meter: 44162176)
+[2026-06-23 19:36:38] [INFO] Detected 14 columns in CSV file
+[2026-06-23 19:36:38] [INFO] Import successful: 288 records inserted (Columns detected: 14)
+[2026-06-23 19:36:38] [INFO] === Import Complete: 1 processed, 5 failed ===
+[2026-06-23 20:41:06] [INFO] === Load Profile Import Started ===
+[2026-06-23 20:41:06] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:41:06] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:41:06] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:41:06] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:41:06] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:41:06] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:41:06] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:41:06] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:41:06] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:41:06] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:41:06] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:41:06] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:41:06] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:41:06] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:41:06] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:41:06] [INFO] Processing file: PELCO_44162176_lp2_2026-06-23.csv (Location: PELCO, Meter: 44162176)
+[2026-06-23 20:41:06] [INFO] File already imported, skipping: PELCO_44162176_lp2_2026-06-23.csv
+[2026-06-23 20:41:06] [INFO] === Import Complete: 1 processed, 5 failed ===
+[2026-06-23 20:41:45] [INFO] === Load Profile Import Started ===
+[2026-06-23 20:41:45] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:41:45] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:41:45] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:41:45] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:41:45] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:41:45] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:41:45] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:41:45] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:41:45] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:41:45] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:41:45] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:41:45] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:41:45] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:41:45] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:41:45] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:41:45] [INFO] === Import Complete: 0 processed, 5 failed ===
+[2026-06-23 20:43:11] [INFO] === Load Profile Import Started ===
+[2026-06-23 20:43:11] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:43:11] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:43:11] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:43:11] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:43:11] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:43:11] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:43:11] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:43:11] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:43:11] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:43:11] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:43:11] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:43:11] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:43:11] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:43:11] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:43:11] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:43:11] [INFO] === Import Complete: 0 processed, 5 failed ===
+[2026-06-23 20:43:42] [INFO] === Load Profile Import Started ===
+[2026-06-23 20:43:42] [INFO] Processing file: 44162176_lp2_2026-06-23.csv (Location: 44162176, Meter: lp2)
+[2026-06-23 20:43:42] [ERROR] Meter not found: lp2 at 44162176
+[2026-06-23 20:43:42] [ERROR] Cannot proceed without valid meter ID for lp2 at 44162176
+[2026-06-23 20:43:42] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:43:42] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:43:42] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:43:42] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:43:42] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:43:42] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:43:42] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:43:42] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:43:42] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:43:42] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:43:42] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:43:42] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:43:42] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:43:42] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:43:42] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:43:42] [INFO] === Import Complete: 0 processed, 6 failed ===
+[2026-06-23 20:45:18] [INFO] === Load Profile Import Started ===
+[2026-06-23 20:45:18] [INFO] Processing file: 44162176_lp2_2026-06-23.csv (Location: 44162176, Meter: lp2)
+[2026-06-23 20:45:18] [ERROR] Meter not found: lp2 at 44162176
+[2026-06-23 20:45:18] [ERROR] Cannot proceed without valid meter ID for lp2 at 44162176
+[2026-06-23 20:45:18] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:45:18] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:45:18] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:45:18] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:45:18] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:45:18] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:45:18] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:45:18] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:45:18] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:45:18] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:45:18] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:45:18] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:45:18] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:45:18] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:45:18] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:45:18] [INFO] === Import Complete: 0 processed, 6 failed ===
+[2026-06-23 20:46:38] [INFO] === Load Profile Import Started ===
+[2026-06-23 20:46:38] [INFO] Processing file: 44162176_lp2_2026-06-23.csv (Location: 44162176, Meter: lp2)
+[2026-06-23 20:46:38] [ERROR] Meter not found: lp2 at 44162176
+[2026-06-23 20:46:38] [ERROR] Cannot proceed without valid meter ID for lp2 at 44162176
+[2026-06-23 20:46:38] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:46:38] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:46:38] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:46:38] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:46:38] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:46:38] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:46:38] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:46:38] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:46:38] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:46:38] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:46:38] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:46:38] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:46:38] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:46:38] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:46:38] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:46:38] [INFO] === Import Complete: 0 processed, 6 failed ===
+[2026-06-23 20:49:54] [INFO] === Load Profile Import Started ===
+[2026-06-23 20:49:54] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:49:54] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:49:54] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:49:54] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:49:54] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:49:54] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:49:54] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:49:54] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:49:54] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:49:54] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:49:54] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:49:54] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:49:54] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 20:49:54] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 20:49:54] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 20:49:54] [INFO] Processing file: PELCO_44162176_lp2_2026-06-23.csv (Location: PELCO, Meter: 44162176)
+[2026-06-23 20:49:54] [INFO] Detected 14 columns in CSV file
+[2026-06-23 20:49:54] [INFO] Import successful: 288 records inserted (Columns detected: 14)
+[2026-06-23 20:49:54] [INFO] === Import Complete: 1 processed, 5 failed ===
+[2026-06-23 23:02:47] [INFO] === Load Profile Import Started ===
+[2026-06-23 23:02:47] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:02:47] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:02:47] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:02:47] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:02:47] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:02:47] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:02:47] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:02:47] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:02:47] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:02:47] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:02:47] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:02:47] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:02:47] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:02:47] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:02:47] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:02:47] [INFO] Processing file: PELCO_44162176_lp2_2026-06-23.csv (Location: PELCO, Meter: 44162176)
+[2026-06-23 23:02:47] [INFO] File already imported, skipping: PELCO_44162176_lp2_2026-06-23.csv
+[2026-06-23 23:02:47] [INFO] === Import Complete: 1 processed, 5 failed ===
+[2026-06-23 23:03:07] [INFO] === Load Profile Import Started ===
+[2026-06-23 23:03:07] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:03:07] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:03:07] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:03:07] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:03:07] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:03:07] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:03:07] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:03:07] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:03:07] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:03:07] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:03:07] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:03:07] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:03:07] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:03:07] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:03:07] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:03:07] [INFO] === Import Complete: 0 processed, 5 failed ===
+[2026-06-23 23:03:26] [INFO] === Load Profile Import Started ===
+[2026-06-23 23:03:26] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:03:26] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:03:26] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:03:26] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:03:26] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:03:26] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:03:26] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:03:26] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:03:26] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:03:26] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:03:26] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:03:26] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:03:26] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:03:26] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:03:26] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:03:26] [INFO] === Import Complete: 0 processed, 5 failed ===
+[2026-06-23 23:04:03] [INFO] === Load Profile Import Started ===
+[2026-06-23 23:04:03] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-01.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:04:03] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:04:03] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:04:03] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-02.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:04:03] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:04:03] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:04:03] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-05.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:04:03] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:04:03] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:04:03] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-06.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:04:03] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:04:03] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:04:03] [INFO] Processing file: FirstBay_WP086237_LS1_2026-06-10.csv (Location: FirstBay, Meter: WP086237)
+[2026-06-23 23:04:03] [ERROR] Meter not found: WP086237 at FirstBay
+[2026-06-23 23:04:03] [ERROR] Cannot proceed without valid meter ID for WP086237 at FirstBay
+[2026-06-23 23:04:03] [INFO] Processing file: PELCO_44162176_lp2_2026-06-23.csv (Location: PELCO, Meter: 44162176)
+[2026-06-23 23:04:03] [INFO] Detected 14 columns in CSV file
+[2026-06-23 23:04:03] [INFO] Import successful: 288 records inserted (Columns detected: 14)
+[2026-06-23 23:04:03] [INFO] === Import Complete: 1 processed, 5 failed ===

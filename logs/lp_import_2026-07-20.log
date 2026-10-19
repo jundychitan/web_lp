@@ -1,0 +1,19 @@
+[2026-07-20 06:00:01] [INFO] === Load Profile Import Started ===
+[2026-07-20 06:00:01] [INFO] Processing file: DEC_164934833_LP1_2026-07-06.csv (Location: DEC, Meter: 164934833)
+[2026-07-20 06:00:01] [ERROR] Meter not found: 164934833 at DEC
+[2026-07-20 06:00:01] [ERROR] Cannot proceed without valid meter ID for 164934833 at DEC
+[2026-07-20 06:00:01] [INFO] Processing file: DEC_164934833_LP1_2026-07-07.csv (Location: DEC, Meter: 164934833)
+[2026-07-20 06:00:01] [ERROR] Meter not found: 164934833 at DEC
+[2026-07-20 06:00:01] [ERROR] Cannot proceed without valid meter ID for 164934833 at DEC
+[2026-07-20 06:00:01] [INFO] Processing file: DEC_75159913_lp1_2026-07-08.csv (Location: DEC, Meter: 75159913)
+[2026-07-20 06:00:01] [WARNING] No valid records found in file, rolling back transaction
+[2026-07-20 06:00:01] [INFO] Processing file: DEC_WP089997_LS1_2026-06-24.csv (Location: DEC, Meter: WP089997)
+[2026-07-20 06:00:01] [ERROR] Meter not found: WP089997 at DEC
+[2026-07-20 06:00:01] [ERROR] Cannot proceed without valid meter ID for WP089997 at DEC
+[2026-07-20 06:00:01] [INFO] Processing file: DEC_WP089997_LS1_unknown.csv (Location: DEC, Meter: WP089997)
+[2026-07-20 06:00:01] [ERROR] Meter not found: WP089997 at DEC
+[2026-07-20 06:00:01] [ERROR] Cannot proceed without valid meter ID for WP089997 at DEC
+[2026-07-20 06:00:01] [INFO] Processing file: PELCO_44162176_lp2_2026-07-20.csv (Location: PELCO, Meter: 44162176)
+[2026-07-20 06:00:01] [INFO] Detected 14 columns in CSV file
+[2026-07-20 06:00:01] [INFO] Import successful: 288 records inserted (Columns detected: 14)
+[2026-07-20 06:00:01] [INFO] === Import Complete: 1 processed, 5 failed ===

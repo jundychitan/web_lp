@@ -1,0 +1,8 @@
+Meter ID,50457003
+Customer,Robinsons_Aboitiz Energy
+Location,sfelapco
+Date Start,2018-08-16 00:00:00
+Date End,2018-08-16 23:59:59
+
+#,Meter ID,Datetime,Event ID,CH 1,CH 2,CH 3,CH 4,CH 5,CH 6
+1,50457003,2018-08-16 00:00:00,0000,0.088,0.022,0.019,0,0,0

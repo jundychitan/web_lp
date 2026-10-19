@@ -1,0 +1,46 @@
+Meter Serial No. : 
+Company Number : 0
+Number of Valid Entries : 39
+Last Entry Element : 39
+Last Entry Sequence Number : 0
+Number of Unread Entries : 39
+
+0, 2017-11-09 22:22:21, 1, Time Changed (new time)
+1, 2017-11-09 21:21:44, 1, Time Changed (old time)
+2, 2017-11-06 01:00:00, 0, Daylight Savings Time Off
+3, 2017-11-05 12:01:29, 1, Time Changed (new time)
+4, 2017-11-05 11:00:27, 1, Time Changed (old time)
+5, 2017-11-05 01:00:00, 0, Daylight Savings Time Off
+6, 2017-11-04 14:52:00, 1, Daylight Savings Time Off
+7, 2017-11-04 14:52:00, 1, Time Changed (new time)
+8, 2017-11-04 14:36:22, 1, Time Changed (old time)
+9, 2017-11-04 14:33:00, 1, Time Changed (new time)
+10, 2017-11-04 14:43:42, 1, Time Changed (old time)
+11, 2017-11-04 14:33:05, 2, Time Changed (new time)
+12, 2017-11-04 14:33:05, 2, Time Changed (old time)
+13, 2017-11-04 14:33:00, 2, Time Changed (new time)
+14, 2017-11-04 14:39:16, 2, Time Changed (old time)
+15, 2017-11-04 11:18:44, 2, Time Changed (new time)
+16, 2017-11-04 11:18:45, 2, Time Changed (old time)
+17, 2017-11-04 11:18:39, 2, Time Changed (new time)
+18, 2017-11-04 11:17:36, 2, Time Changed (old time)
+19, 2017-11-04 11:14:28, 2, Time Changed (new time)
+20, 2017-11-04 11:14:29, 2, Time Changed (old time)
+21, 2017-11-04 11:14:21, 2, Time Changed (new time)
+22, 2017-11-04 11:14:22, 2, Time Changed (old time)
+23, 2017-11-04 11:09:19, 2, Time Changed (new time)
+24, 2017-11-04 11:09:18, 2, Time Changed (old time)
+25, 2017-11-04 11:09:13, 2, Time Changed (new time)
+26, 2017-11-04 11:07:47, 2, Time Changed (old time)
+27, 2017-11-03 12:48:20, 1, Primary Power Up
+28, 2017-11-03 10:42:12, 1, Primary Power Down
+29, 2017-10-28 19:27:48, 2, Time Changed (new time)
+30, 2017-10-28 19:27:48, 2, Time Changed (old time)
+31, 2017-10-28 19:16:37, 2, Reset List Pointers
+32, 2017-10-28 19:16:35, 2, Time Changed (new time)
+33, 2017-10-28 19:16:36, 2, Time Changed (old time)
+34, 2017-10-28 19:16:31, 2, Daylight Savings Time On
+35, 2017-10-28 19:16:31, 2, Time Changed (new time)
+36, 2000-00-00 00:18:54, 0, Reset List Pointers
+37, 2000-00-00 00:18:54, 2, Time Changed (old time)
+38, 2000-00-00 00:18:44, 2, Reset List Pointers

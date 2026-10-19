@@ -1,0 +1,8 @@
+Meter ID,50456993
+Customer,Pepsi
+Location,sfelapco
+Date Start,2018-07-30 00:00:00
+Date End,2018-07-30 23:59:59
+
+#,Meter ID,Datetime,Event ID,CH 1,CH 2,CH 3,CH 4,CH 5,CH 6
+1,50456993,2018-07-30 00:00:00,0000,0.072,0.018,0.028,0,0,0

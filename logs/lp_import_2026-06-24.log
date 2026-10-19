@@ -1,0 +1,8 @@
+[2026-06-24 06:00:01] [INFO] === Load Profile Import Started ===
+[2026-06-24 06:00:01] [INFO] Processing file: DEC_SS18314065_LS1_2026-06-23.csv (Location: DEC, Meter: SS18314065)
+[2026-06-24 06:00:01] [INFO] Detected 7 columns in CSV file
+[2026-06-24 06:00:01] [INFO] Import successful: 96 records inserted (Columns detected: 7)
+[2026-06-24 06:00:01] [INFO] Processing file: PELCO_44162176_lp2_2026-06-24.csv (Location: PELCO, Meter: 44162176)
+[2026-06-24 06:00:01] [INFO] Detected 14 columns in CSV file
+[2026-06-24 06:00:01] [INFO] Import successful: 288 records inserted (Columns detected: 14)
+[2026-06-24 06:00:01] [INFO] === Import Complete: 2 processed, 0 failed ===
